@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/candidate/[id]/fail/route": "app/api/candidate/[id]/fail/route.js",
+  "/api/candidate/[id]/route": "app/api/candidate/[id]/route.js",
+  "/api/candidate/[id]/select/route": "app/api/candidate/[id]/select/route.js",
+  "/candidate-dashboard/[id]/page": "app/candidate-dashboard/[id]/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/api/candidates/route": "app/api/candidates/route.js",
+  "/candidate-dashboard/[id]/upload-documents/page": "app/candidate-dashboard/[id]/upload-documents/page.js",
+  "/candidate-profile/page": "app/candidate-profile/page.js",
+  "/candidate-profile/[id]/page": "app/candidate-profile/[id]/page.js"
+}
